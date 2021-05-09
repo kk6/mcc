@@ -359,3 +359,5 @@ sketch
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django,react,visualstudiocode,pycharm
+
+mcc-server/media
